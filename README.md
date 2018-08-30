@@ -1,2 +1,2 @@
 # bootstrap
-Ejercicios de Bootstrap
+Desafíos del Curso de Bootstrap de Platzi 2018.
